@@ -43,6 +43,14 @@ nav ul li a:hover {
   opacity: 0.5;
 }
 
+.card-anchor {
+  text-decoration: none;
+  display: block;
+  padding: 16px;
+  color: inherit;
+  transition: 0.3s all;
+}
+
 .cards {
   padding: 0 24px;
   display: flex;

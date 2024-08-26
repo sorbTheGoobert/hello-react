@@ -49,7 +49,7 @@ const Card = (props) => {
           <h3>{title}</h3>
           <p>{price}</p>
         </div>
-        <a href="#" className="card-btn">Read more</a>
+        <a href="#" className="card-btn card-anchor">Read more</a>
       </div>
     </article>
   );
